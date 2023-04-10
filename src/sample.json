@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "title": "Aliens",
+        "director": "James Cameron",
+        "year": "1986",
+        "rating": "8.5",
+        "image": "https://www.ecartelera.com/carteles/4900/4926/001_p.jpg"
+    },
+    {
+        "id": "2",
+        "title": "The Dark Knight",
+        "director": "Cristopher Nolan",
+        "year": "2008",
+        "rating": "10 ",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSaolCejKaDO-xoV1KyNQbg7dXZO0QihEkIFDdmaU_2dT1Fgc9"
+    },
+    {
+        "id": "3",
+        "title": "La luz del diablo",
+        "director": "Daniel Stamm",
+        "year": "2022",
+        "rating": "4.6 ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwe41ypualDiJgby3wgFwtG9PjtvIKAJ6UaA2bq-yGFLwYWCF"
+    },
+    {
+        "id": "4",
+        "title": "El exorcismo de Dios",
+        "director": "Alejandro Hidalgo",
+        "year": "2021",
+        "rating": "5.6 ",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlA7WvPnnqZzglaxIO4qGY1Tn5vkRSPUTFfdNicLm8jnNs6SXG"
+    },
+    {
+        "id": "5",
+        "title": "La resurrección de Cristo",
+        "director": " Kevin Reynolds",
+        "year": "2016",
+        "rating": "8.5 ",
+        "image": "https://1.bp.blogspot.com/-GAo2l6DXPno/XpJy9taf48I/AAAAAAAAAJc/_GqxmUXVLUEXKmRh9M5nrvyhy_tMn0eKgCLcBGAsYHQ/s1600/la-resurreccion-de-cristo-risen-joseph-fiennes-pelicula-dvd-D_NQ_NP_712827-MLM29588392469_032019-F.jpg"
+    },
+    {
+        "id": "6",
+        "title": "API REST",
+        "director": "Jr. Antonio Mojica Abrego",
+        "year": "2023",
+        "rating": "?",
+        "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/817edt34RKL._AC_SY879_.jpg"
+    }
+]
+
