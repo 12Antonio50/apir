@@ -15,8 +15,11 @@ app.use(express.json());
 //cors
 app.use(cors())
 
+app.get("/", (req, res) =>{
+    res.send("Hola");
+});
+
 //routes
-app.use(require('./routes/index'));
 app.use('/api/users', require('./routes/users'));
 app.use('/api/movies',require('./routes/movies'));
 
